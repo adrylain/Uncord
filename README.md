@@ -11,6 +11,6 @@ Current goals:
 
 **Client**:
 
+* Text chat.
 * CLI that can connect to discord.com server instances.
 * CLI that can connect to private server instances.
-
