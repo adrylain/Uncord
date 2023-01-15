@@ -1,5 +1,5 @@
 # Uncord
-Uncorded from discord.com.
+Uncorded from the binds of discord.com and its TOS.
 
 Current goals:
 
