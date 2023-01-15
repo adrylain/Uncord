@@ -3,14 +3,14 @@ Uncorded from discord.com.
 
 Current goals:
 
-Backend:
+**Backend**:
 
-Discord-like roles and permissions system.
-Discord-like channels on private server instances.
-E2E encryption text chat for private server instances.
+* Discord-like roles and permissions system.
+* Discord-like channels on private server instances.
+* E2E encryption text chat for private server instances.
 
-Client:
+**Client**:
 
-CLI that can connect to discord.com servers.
-CLI that can connect to private server instances.
+* CLI that can connect to discord.com servers.
+* CLI that can connect to private server instances.
 
