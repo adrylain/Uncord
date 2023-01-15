@@ -5,7 +5,7 @@ Current goals:
 
 **Backend**:
 
-* Discord-like roles and permissions system.
+* Discord-like roles and permissions system on private server instances.
 * Discord-like channels on private server instances.
 * E2E encryption text chat for private server instances.
 
